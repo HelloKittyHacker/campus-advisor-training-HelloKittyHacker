@@ -31,8 +31,8 @@ It is beneficial that you take advantage of the resources presented to you, but 
     
 4. Make sure to set Git with your name and email address using the following commands on the command-line with your name and email address:
 ```
-$ git config --global user.name "FirstName LastName"
-$ git config --global user.email "email@example.com"
+$ git config --global user.name "Holly Abonnel"
+$ git config --global user.email hollyheartz27@gmail.com"email@example.com"
 ```
 This is important because Git will use this information when you work on a project.
 
